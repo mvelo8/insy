@@ -23,5 +23,5 @@ A secure, full-stack banking application for international payments with React f
 **Backend:** Node.js, Express, MongoDB, JWT  
 **Security:** bcrypt, input validation, SQL/NoSQL injection protection
 
-## 📁 Project Structure
-
+## 🎞️ Recording 
+https://youtu.be/B3yq2iGXRBU?feature=shared
